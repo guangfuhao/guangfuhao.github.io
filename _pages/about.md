@@ -17,3 +17,10 @@ Publications
 ======
 Liu MS, Gao JQ, Hu GY, **Hao GF**, Jiang TZ, Zhang C, Yu S. MonkeyTrail: A scalable video-based method for tracking macaque movement trajectory in daily living cages. Zool Res. 2022 May 18;43(3):343-351. doi: 10.24272/j.issn.2095-8137.2021.353. PMID: 35301830; PMCID: PMC9113979.
 
+**Guangfu Hao**, Frederic Alexandre, Shan Yu. Visual Large Language Models Exhibit Human-Level Cognitive Flexibility (ICLR 2025, under review).
+
+**Guangfu Hao**, Yuhan Zhang, Guoqing Ma, Yang Chen, Frederic Alexandre, Shan Yu. Large Language Models need Episodic Memory (ACM TheWebConf 2025, under review).
+
+Yuhan Zhang, Guoqing Ma, **Guangfu Hao**o, Liangxuan Guo, Yang Chen, Shan Yu. Efficient Reinforcement Learning through Adaptively Pretrained Visual Encoder (AAAI 2025, under review).
+
+Guoqing Ma, Yuhan Zhang, Yuming Dai, **Guangfu Hao**, Yang Chen, Shan Yu. Mitigating Non-Stationarity in Deep Reinforcement Learning with Clustering Orthogonal Weight Modification (AAMAS 2025, under review).
