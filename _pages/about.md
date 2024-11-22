@@ -21,6 +21,6 @@ Liu MS, Gao JQ, Hu GY, **Hao GF**, Jiang TZ, Zhang C, Yu S. MonkeyTrail: A scala
 
 **Guangfu Hao**, Yuhan Zhang, Guoqing Ma, Yang Chen, Frederic Alexandre, Shan Yu. Large Language Models need Episodic Memory (ACM TheWebConf 2025, under review).
 
-Yuhan Zhang, Guoqing Ma, **Guangfu Hao**o, Liangxuan Guo, Yang Chen, Shan Yu. Efficient Reinforcement Learning through Adaptively Pretrained Visual Encoder (AAAI 2025, under review).
+Yuhan Zhang, Guoqing Ma, **Guangfu Hao**, Liangxuan Guo, Yang Chen, Shan Yu. Efficient Reinforcement Learning through Adaptively Pretrained Visual Encoder (AAAI 2025, under review).
 
 Guoqing Ma, Yuhan Zhang, Yuming Dai, **Guangfu Hao**, Yang Chen, Shan Yu. Mitigating Non-Stationarity in Deep Reinforcement Learning with Clustering Orthogonal Weight Modification (AAMAS 2025, under review).
