@@ -21,7 +21,7 @@ Publications
 
 **Guangfu Hao**, Yuhan Zhang, Guoqing Ma, Yang Chen, Frederic Alexandre, Shan Yu. Large Language Models need Episodic Memory (IJCNN 2025).
 
-**Guangfu Hao**, Haojie Wen, Liangxuna Guo, Yang Chen, Yanchao Bi, Shan Yu. Flexible Tool Learning And Selection through Low-dimensional Attribute Alignment of Vision and Language (under submission).
+**Guangfu Hao**, Haojie Wen, Liangxuna Guo, Yang Chen, Yanchao Bi, Shan Yu. Flexible Tool Selection through Low-dimensional Attribute Alignment of Vision and Language (under submission).
 
 Yuhan Zhang, Guoqing Ma, **Guangfu Hao**, Liangxuan Guo, Yang Chen, Shan Yu. Efficient Reinforcement Learning through Adaptively Pretrained Visual Encoder (AAAI 2025).
 
