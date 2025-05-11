@@ -27,4 +27,6 @@ Yuhan Zhang, Guoqing Ma, **Guangfu Hao**, Liangxuan Guo, Yang Chen, Shan Yu. Eff
 
 Guoqing Ma, Yuhan Zhang, Yuming Dai, **Guangfu Hao**, Yang Chen, Shan Yu. Clustering-Based Weight Orthogonalization for Stabilizing Deep Reinforcement Learning (IJCNN 2025).
 
+Guoqing Ma, Yuhan Zhang, Liangxuan Guo, **Guangfu Hao**, Yang Chen, Shan Yu. DPO-LWM: Distilled Policy Optimization with LLM-Based World Model for Task Planning (NeurIPS 2025, under submission).
+
 Liu MS, Gao JQ, Hu GY, **Hao GF**, Jiang TZ, Zhang C, Yu S. MonkeyTrail: A scalable video-based method for tracking macaque movement trajectory in daily living cages. Zool Res. 2022 May 18;43(3):343-351. doi: 10.24272/j.issn.2095-8137.2021.353. PMID: 35301830; PMCID: PMC9113979.
