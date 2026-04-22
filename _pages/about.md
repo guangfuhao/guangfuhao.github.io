@@ -16,9 +16,9 @@ My research lies at the intersection of computational neuroscience and artificia
 Publications
 ======
 
-**G. Hao**, **F. Alexandre** and **S. Yu**, "Visual Large Language Models Exhibit Human-Level Cognitive Flexibility in the Wisconsin Card Sorting Test," in *IEEE Transactions on Cognitive and Developmental Systems*, vol. 18, no. 1, pp. 228–238, Feb. 2026.
+**G. Hao**, F. Alexandre and S. Yu, "Visual Large Language Models Exhibit Human-Level Cognitive Flexibility in the Wisconsin Card Sorting Test," in *IEEE Transactions on Cognitive and Developmental Systems*, vol. 18, no. 1, pp. 228–238, Feb. 2026.
 
-**G. Hao**, **Y. Zhang**, **G. Ma**, **Y. Chen**, **F. Alexandre** and **S. Yu**, "Large Language Models need Episodic Memory," 2025 International Joint Conference on Neural Networks (IJCNN), Rome, Italy, 2025, pp. 1–10, doi: 10.1109/IJCNN64981.2025.11229266.
+**G. Hao**, Y. Zhang, G. Ma, Y. Chen, F. Alexandre and S. Yu, "Large Language Models need Episodic Memory," 2025 International Joint Conference on Neural Networks (IJCNN), Rome, Italy, 2025, pp. 1–10, doi: 10.1109/IJCNN64981.2025.11229266.
 
 **Hao, Guangfu**, Yang Chen, Sainan Qin, Frédéric Alexandre, and Shan Yu. "Self-Organized Context Dependent Processing in Neural Networks." (Cognitive Computation, under review, Available at SSRN 5056172.).
 
@@ -34,4 +34,4 @@ Liu MS, Gao JQ, Hu GY, **Hao GF**, Jiang TZ, Zhang C, Yu S. MonkeyTrail: A scala
 
 L. Guo, B. Zhu, Q. Tao, K. Liu, X. Zhao, X. Qin, J. Gao and **G. Hao**, "Agentic Lybic: Multi-Agent Execution System with Tiered Reasoning and Orchestration," arXiv preprint arXiv:2509.11067, 2025.
 
-**G. Hao**, **Y. Dai**, **X. Qin** and **S. Yu**, "Brain-Inspired Graph Multi-Agent Systems for LLM Reasoning," arXiv preprint arXiv:2603.15371, 2026.
+**G. Hao**, Y. Dai, X. Qin and S. Yu, "Brain-Inspired Graph Multi-Agent Systems for LLM Reasoning," arXiv preprint arXiv:2603.15371, 2026.
